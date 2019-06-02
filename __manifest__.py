@@ -3,7 +3,7 @@
     'name': "AccountCore",
 
     'summary': """
-       一个独立的会计模块""",
+       一个独立的会计模块,基于12版本""",
 
     'description': """
         Long description of module's purpose
